@@ -1,6 +1,6 @@
 # labspy4
-## Latihan 1
-# Source Code
+# Latihan 1
+## Source Code
 ```python
 nama=[]
 nim=[]
@@ -38,10 +38,12 @@ for n in range(i):
     print("|    ",n+1,"    |    ",nama[n],"    |   ",nim[n],"   |    ",tugas[n],"    |   ",uts[n],"    |    ",uas[n],"    |   ",akhir[n],"   |")
 print("===================================================================================================")
 ```
-# ScreenShot
+## ScreenShot
 ![Gambar 1](pratikum.png)
-## Latihan Membuat List
-# Source Code
+## Flowchart
+![Flowchart](flowchart.png)
+# Latihan Membuat List
+## Source Code
 ```python
 # Membuat list sebanyak 5 elemen
 a = [1,2,3,4,5]
@@ -83,5 +85,5 @@ print("Tambah list B dengan 3 nilai adalah",b)
 c = a+b
 print("Gabungkan list A dan B adalah",c)
 ```
-# ScreenShot
+## ScreenShot
 ![Gambar 2](list.png)
