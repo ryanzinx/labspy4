@@ -39,7 +39,7 @@ for n in range(i):
 print("===================================================================================================")
 ```
 # ScreenShot
-![Gambar 1](screenshot/prtikum.PNG)
+![Gambar 1](pratikum.png)
 ## Latihan Membuat List
 # Source Code
 ```python
@@ -84,4 +84,4 @@ c = a+b
 print("Gabungkan list A dan B adalah",c)
 ```
 # ScreenShot
-![Gambar 2](screenshot/list.PNG)
+![Gambar 2](list.png)
