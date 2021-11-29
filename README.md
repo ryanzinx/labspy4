@@ -1,5 +1,5 @@
 # labspy4
-# Latihan 1
+# Pratikum
 ## Source Code
 ```python
 nama=[]
